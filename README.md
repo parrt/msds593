@@ -41,7 +41,7 @@ Following weeks:
 
 We will be interleaving lectures from Yannet on Tuesdays and Terence on Thursdays for the main lectures. Yannet will be in Tuesday evening and Wednesday morning sessions for internationals and Terence will be in Thursday evening and Friday morning sessions.
 
-**COURSE BOOK**. None, though we will refer you to multiple web locations.
+**COURSE BOOK**. None, though we will refer you to multiple web resources.
 
 **TARDINESS.** Please be on time for class and do not pop in and out of zoom as it can be distracting.
 
@@ -73,11 +73,37 @@ Each project has a hard deadline and only those projects working correctly befor
 
 **Getting started**. You should start out by watching video [A broad overview of python and tools used in our MSDS program](https://www.youtube.com/watch?v=d73hq8jCJ3s) on making sure you have the proper Python environment.  Make sure you have [Anaconda](https://www.anaconda.com/products/individual) installed and a very recent version.
 
-We will be interleaving lectures from Yannet and Terence, but we can separate the topics into visualization and the [pandas](https://pandas.pydata.org/) library.
+We will be interleaving lectures from Yannet and Terence, but we can separate the topics into visualization, the [pandas](https://pandas.pydata.org/) library for data manipulation, and [matplotlib](https://matplotlib.org/) for basic plotting.
 
 ### Visualization
 
 ### Pandas
+
+* introduction and overview of pandas; examples of the major components, what we can do
+* fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
+* selecting, slicing, method chaining, indexes
+* sorting, removing duplicates
+* dates, strings
+* pattern matching during selection
+* aggregation, grouping
+* map function or dictionary to Series (apply?)
+* merging/joining/stacking
+* feather format
+
+### Making plots with matplotlib
+
+* bar chart, histogram
+* scatter; alpha channel
+* boxplot
+* bubble plot
+* line plots
+* heatmap
+* images (MNIST)
+* display matrices
+* overlaid plots for comparing variables; arrays of plots; shared axes
+* drawing lines, text, annotations
+* altering axes, labels; titles
+* misc: legends, colorbar, linewidth, line style, colors
  
 ## Administrative details
 
