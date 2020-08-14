@@ -41,7 +41,14 @@ Following weeks:
 
 We will be interleaving lectures from Yannet on Tuesdays and Terence on Thursdays for the main lectures. Yannet will be in Tuesday evening and Wednesday morning sessions for internationals and Terence will be in Thursday evening and Friday morning sessions.
 
-**COURSE BOOK**. None, though we will refer you to multiple web resources.
+**COURSE BOOK**. 
+
+* [Storytelling with Data: Let’s Practice](https://learning.oreilly.com/library/view/storytelling-with-data/9781119621492/)
+* [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython ](https://learning.oreilly.com/library/view/python-for-data/9781491957653/). 
+
+To get access, [start at USF](https://guides.usfca.edu/oreilly) and then you can jump to the various books.
+
+
 
 **TARDINESS.** Please be on time for class and do not pop in and out of zoom as it can be distracting.
 
