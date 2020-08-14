@@ -39,21 +39,29 @@ Following weeks:
 
 **INSTRUCTION FORMAT**. Live class runs for 2 hours, 2 days/week. Instructor-student interaction during lecture is encouraged by speaking up in zoom. We'll often mix in mini-exercises / labs during class. All programming will be done in the Python 3 programming language, unless otherwise specified.
 
-**COURSE BOOK**.
+We will be interleaving lectures from Yannet on Tuesdays and Terence on Thursdays for the main lectures. Yannet will be in Tuesday evening and Wednesday morning sessions for internationals and Terence will be in Thursday evening and Friday morning sessions.
+
+**COURSE BOOK**. None, though we will refer you to multiple web locations.
 
 **TARDINESS.** Please be on time for class and do not pop in and out of zoom as it can be distracting.
 
 
 ## Student evaluation
 
+4 quizzes 40%
+professionalism/attendance/labs 20%
+4 (yannet) homeworks 20%
+project 20%
+
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
-|[foo](bar)| 10%| ? |
+|professionalism/attendance/labs| 20% | |
+|4 Homeworks| 20% | |
 |Quiz 1| 10%| when? |
 |Quiz 2| 10%|  |
 |Quiz 3| 10%| |
 |Quiz 4| 10%| |
-|Quiz 5| 10%| |
+|[Group Project](group-project.md)| 20%| Fri 9 October, Midnight California time|
 
 Each project has a hard deadline and only those projects working correctly before the deadline get credit.
 
@@ -63,6 +71,14 @@ Each project has a hard deadline and only those projects working correctly befor
 
 ## Syllabus
 
+**Getting started**. You should start out by watching video [A broad overview of python and tools used in our MSDS program](https://www.youtube.com/watch?v=d73hq8jCJ3s) on making sure you have the proper Python environment.  Make sure you have [Anaconda](https://www.anaconda.com/products/individual) installed and a very recent version.
+
+We will be interleaving lectures from Yannet and Terence, but we can separate the topics into visualization and the [pandas](https://pandas.pydata.org/) library.
+
+### Visualization
+
+### Pandas
+ 
 ## Administrative details
 
 **ACADEMIC HONESTY**. You must abide by the copyright laws of the United States and academic honesty policies of USF. You may not copy code from other current or previous students. All suspicious activity will be investigated and, if warranted, passed to the Dean of Sciences for action.  Copying answers or code from other students or sources during a quiz, exam, or for a project is a violation of the university’s honor code and will be treated as such. Plagiarism consists of copying material from any source and passing off that material as your own original work. Plagiarism is plagiarism: it does not matter if the source being copied is on the Internet, from a book or textbook, or from quizzes or problem sets written up by other students. Giving code or showing code to another student is also considered a violation.
