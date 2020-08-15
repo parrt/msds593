@@ -105,7 +105,13 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 
 ### Visualization
 
-### Pandas
+...Yannet's stuff goes here...
+
+### Viz Implementation and intro to EDA
+
+[Coding and implementation overview](notebooks/coding-overview.ipynb)
+
+#### Pandas
 
 * introduction and overview of pandas; examples of the major components, what we can do
 * fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
@@ -118,7 +124,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * merging/joining/stacking
 * feather format
 
-### Making plots with matplotlib
+#### Making plots with matplotlib
 
 * bar chart, histogram
 * scatter; alpha channel
