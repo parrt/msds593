@@ -109,7 +109,9 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 
 ### Viz Implementation and intro to EDA
 
-[Coding and implementation overview](notebooks/coding-overview.ipynb)
+* [Coding and implementation overview](notebooks/coding-overview.ipynb)
+* [Introduction to pandas](notebooks/pandas-intro.ipynb)
+
 
 #### Pandas
 
