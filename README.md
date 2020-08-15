@@ -89,10 +89,10 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * introduction and overview of pandas; examples of the major components, what we can do
 * fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
 * selecting, slicing, method chaining, indexes
-* sorting, removing duplicates
+* sorting, removing duplicates, shuffle, sample
 * dates, strings
 * pattern matching during selection
-* aggregation, grouping
+* aggregation, grouping, binning, quantiles
 * map function or dictionary to Series (apply?)
 * merging/joining/stacking
 * feather format
@@ -108,7 +108,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * images (MNIST)
 * display matrices
 * overlaid plots for comparing variables; arrays of plots; shared axes
-* drawing lines, text, annotations
+* drawing lines, shapes, text, annotations
 * altering axes, labels; titles
 * misc: legends, colorbar, linewidth, line style, colors
  
