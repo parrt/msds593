@@ -67,9 +67,9 @@ project 20%
 |4 Homeworks| 20% | |
 |Quiz 1| 10%| 9/03 |
 |Quiz 2| 10%| 9/10 |
-|Quiz 3| 10%| 9/17 |
-|Quiz 4| 10%| 9/24 |
-|[Group Project](group-project.md)| 20%| Fri 9 October, Midnight California time|
+|Quiz 3| 10%| 9/24 |
+|Quiz 4| 10%| 10/08 |
+|[Group Project](group-project.md)| 20%| 10/06|
 
 Each project has a hard deadline and only those projects working correctly before the deadline get credit.
 
