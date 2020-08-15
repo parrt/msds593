@@ -110,6 +110,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * visual perception and principles of design; clutter is your enemy!
 * multivariate and time series data visualization; 
 * visualizing trees, maps, networks and text
+* storytelling with data
 
 ### Viz Implementation and intro to EDA
 
