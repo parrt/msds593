@@ -51,7 +51,6 @@ We will be using the following books available for free via the USF online libra
 
 To get access, [start at USF](https://guides.usfca.edu/oreilly) and then you can jump to the various books.
 
-
 **TARDINESS.** Please be on time for class and do not pop in and out of zoom as it can be distracting.
 
 
@@ -78,9 +77,29 @@ Each project has a hard deadline and only those projects working correctly befor
 
 **Grading standards**. I consider an **A** grade to be above and beyond what most students have achieved. A **B** grade is an average grade for a student or what you could call "competence" in a business setting. A **C** grade means that you either did not or could not put forth the effort to achieve competence. Below **C** implies you did very little work or had great difficulty with the class compared to other students.
 
-## Syllabus
+## Getting started
 
-**Getting started**. You should start out by watching video [A broad overview of python and tools used in our MSDS program](https://www.youtube.com/watch?v=d73hq8jCJ3s) on making sure you have the proper Python environment.  Make sure you have [Anaconda](https://www.anaconda.com/products/individual) installed and a very recent version.
+You should start out by watching video [A broad overview of python and tools used in our MSDS program](https://www.youtube.com/watch?v=d73hq8jCJ3s) on making sure you have the proper Python environment.  Make sure you have [Anaconda](https://www.anaconda.com/products/individual) installed and a very recent version. From the `Terminal` app, you should see the following (with `parrt` replaced with your user ID or name):
+
+```
+$ which python
+/Users/parrt/opt/anaconda3/bin/python
+$ python
+Python 3.8.3 (default, Jul  2 2020, 11:26:31) 
+[Clang 10.0.0 ] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+```
+
+You are to type `which python` and `python` at the `$` prompt to get those results. It indicates which version of Python you're using, which should be Anaconda-based:
+
+```
+/Users/parrt/opt/anaconda3/bin/python
+```
+
+and version 3.8 or above. Note that `/` is the path separator character and so, for example, `/Users/parrt/opt` means the `Users` directory under the root of the disk, `parrt` under that directory, and finally `opt` directory under that.
+
+## Syllabus
 
 We will be interleaving lectures from Yannet and Terence, but we can separate the topics into visualization, the [pandas](https://pandas.pydata.org/) library for data manipulation, and [matplotlib](https://matplotlib.org/) for basic plotting.
 
