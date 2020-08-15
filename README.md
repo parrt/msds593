@@ -101,7 +101,7 @@ and version 3.8 or above. Note that `/` is the path separator character and so, 
 
 ## Syllabus
 
-We will be interleaving lectures from Yannet and Terence, but we can separate the topics into visualization, the [pandas](https://pandas.pydata.org/) library for data manipulation, and [matplotlib](https://matplotlib.org/) for basic plotting.
+We will be interleaving lectures from Yannet and Terence, but we can separate the topics into visualization, [pandas](https://pandas.pydata.org/) for data manipulation, and [matplotlib](https://matplotlib.org/) for basic plotting.
 
 ### Visualization
 
