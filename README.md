@@ -122,9 +122,10 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 
 * bar chart, histogram
 * scatter; alpha channel
+* line plot
 * boxplot
 * bubble plot
-* line plots
+* strip plot
 * heatmap
 * images (MNIST)
 * display matrices
