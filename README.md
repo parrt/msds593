@@ -43,11 +43,13 @@ We will be interleaving lectures from Yannet on Tuesdays and Terence on Thursday
 
 **COURSE BOOKS**. 
 
+We will be using the following books available for free via the USF online library:
+
+* [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/)
 * [Storytelling with Data: Let’s Practice](https://learning.oreilly.com/library/view/storytelling-with-data/9781119621492/)
 * [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython ](https://learning.oreilly.com/library/view/python-for-data/9781491957653/). 
 
 To get access, [start at USF](https://guides.usfca.edu/oreilly) and then you can jump to the various books.
-
 
 
 **TARDINESS.** Please be on time for class and do not pop in and out of zoom as it can be distracting.
