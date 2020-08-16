@@ -79,6 +79,8 @@ Each project has a hard deadline and only those projects working correctly befor
 
 ## Getting started
 
+### Python environment
+
 You should start out by watching video [A broad overview of python and tools used in our MSDS program](https://www.youtube.com/watch?v=d73hq8jCJ3s) on making sure you have the proper Python environment.  Make sure you have [Anaconda](https://www.anaconda.com/products/individual) installed and a very recent version. From the `Terminal` app, you should see the following (with `parrt` replaced with your user ID or name):
 
 ```
@@ -98,6 +100,30 @@ You are to type `which python` and `python` at the `$` prompt to get those resul
 ```
 
 and version 3.8 or above. Note that `/` is the path separator character and so, for example, `/Users/parrt/opt` means the `Users` directory under the root of the disk, `parrt` under that directory, and finally `opt` directory under that.
+
+### Directory structure
+
+We strongly recommend that you create an appropriate data structure to organize the artifacts you create for classes and the resources you need.  When dealing with programs and data, the names and structure of your directories become part of the program and must be precise. Please remember that upper and lowercase letters are meaningfully different to the operating system and Python.
+
+Creating an appropriate structure can be done manually using the OS X Finder, but it's better if you get used to using the terminal. Launching the terminal and executing the following commands creates a reasonable data structure but you can change it to suit your needs.
+
+```
+cd ~                # Jump to your home directory 
+mkdir classes       # Make a subdirectory (folder)
+cd classes          # Jump into the classes directory
+mkdir msds593
+cd msds593
+mkdir homework
+mkdir labs          # Start jupyter in this dir; put notebooks here
+cd labs
+mkdir data          # Here is where you download data used by notebooks
+```
+
+In the Finder afterwards, the structure look something like this:
+ 
+<img src="dirs.png" width="100">
+
+You will be doing exercises during class in Terence's lectures and you should create a new notebook for each lecture because you must submit a PDF printout of the exercises associated with each lecture.
 
 ## Syllabus
 
