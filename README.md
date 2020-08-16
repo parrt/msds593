@@ -103,7 +103,7 @@ and version 3.8 or above. Note that `/` is the path separator character and so, 
 
 ### Directory structure
 
-We strongly recommend that you create an appropriate data structure to organize the artifacts you create for classes and the resources you need.  When dealing with programs and data, the names and structure of your directories become part of the program and must be precise. Please remember that upper and lowercase letters are meaningfully different to the operating system and Python.
+We strongly recommend that you create an appropriate directory (folder) structure to organize the artifacts you create for classes and the resources you need.  When dealing with programs and data, the names and structure of your directories become part of the program and must be precise. Please remember that upper and lowercase letters are meaningfully different to the operating system and Python.
 
 Creating an appropriate structure can be done manually using the OS X Finder, but it's better if you get used to using the terminal. Launching the terminal and executing the following commands creates a reasonable data structure but you can change it to suit your needs.
 
@@ -121,7 +121,7 @@ mkdir data          # Here is where you download data used by notebooks
 
 In the Finder afterwards, the structure look something like this:
  
-<img src="dirs.png" width="100">
+<img src="dirs.png" width="130">
 
 You will be doing exercises during class in Terence's lectures and you should create a new notebook for each lecture because you must submit a PDF printout of the exercises associated with each lecture.
 
