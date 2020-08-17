@@ -51,7 +51,7 @@ We will be using the following books available for free via the USF online libra
 
 To get access, [start at USF](https://guides.usfca.edu/oreilly) and then you can jump to the various books.
 
-**Professionalism**
+**PROFESSIONALISM**
 Includes:
 * Showing respect for your classmates and your professor
 * Getting to class on time every time
