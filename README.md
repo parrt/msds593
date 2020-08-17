@@ -9,7 +9,7 @@ This course introduces students to the key...
 **OFFICE HOURS**
 
 * Yannet TBA
-* Terence is generally available on slack on-demand
+* Terence is generally available on slack or email on-demand
 
 **SPATIAL COORDINATES:**<br>
 
@@ -57,9 +57,8 @@ The following items are even more important because all of us will be remote thi
  
 * Showing respect for your classmates and your professor
 * Getting to class on time every time
-* No cellphones, social media, slack, texting during the class
+* No cellphones, email, social media, slack, texting during the class
 * Turn on your webcam on zoom
-
 
 ## Student evaluation
 
