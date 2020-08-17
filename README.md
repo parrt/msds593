@@ -41,7 +41,7 @@ Following weeks:
 
 We will be interleaving lectures from Yannet on Tuesdays and Terence on Thursdays for the main lectures. Yannet will be in Tuesday evening and Wednesday morning sessions for internationals and Terence will be in Thursday evening and Friday morning sessions.
 
-**COURSE BOOKS**. 
+**COURSE BOOKS** 
 
 We will be using the following books available for free via the USF online library:
 
@@ -51,7 +51,12 @@ We will be using the following books available for free via the USF online libra
 
 To get access, [start at USF](https://guides.usfca.edu/oreilly) and then you can jump to the various books.
 
-**TARDINESS.** Please be on time for class and do not pop in and out of zoom as it can be distracting.
+**Professionalism**
+Includes:
+* Showing respect for your classmates and your professor
+* Getting to class on time every time
+* No cellphones, social media, slack, texting during the class
+* Turn on your camera on zoom
 
 
 ## Student evaluation
