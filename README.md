@@ -147,7 +147,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 
 ### Viz Implementation and intro to EDA
 
-* [Coding and implementation overview](notebooks/coding-overview.ipynb)
+* [Coding and implementation overview](notebooks/eda-viz-impl-overview.ipynb)
 * [Crash course in Python used in EDA](notebooks/python-crashcourse.ipynb)
 * [Introduction to pandas](notebooks/pandas-intro.ipynb)
 
