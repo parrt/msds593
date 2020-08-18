@@ -58,6 +58,7 @@ The following items are even more important because all of us will be remote thi
 * Showing respect for your classmates and your professor
 * Getting to class on time every time
 * No cellphones, email, social media, slack, texting during the class
+* Turn off all of your various notifications so you are not distracted
 * Turn on your webcam on zoom
 
 ## Student evaluation
@@ -147,6 +148,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 ### Viz Implementation and intro to EDA
 
 * [Coding and implementation overview](notebooks/coding-overview.ipynb)
+* [Crash course in Python used in EDA](notebooks/python-crashcourse.ipynb)
 * [Introduction to pandas](notebooks/pandas-intro.ipynb)
 
 
