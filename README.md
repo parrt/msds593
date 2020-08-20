@@ -152,6 +152,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * [Introduction to pandas](notebooks/pandas-intro.ipynb)
 * [EDA for Kaggle NYC Rent data set](notebooks/nyrent.ipynb)
 * [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
+* [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
 
 #### Pandas
 
