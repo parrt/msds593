@@ -149,8 +149,9 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 
 * [Coding and implementation overview](notebooks/eda-viz-impl-overview.ipynb)
 * [Crash course in Python used in EDA](notebooks/python-crashcourse.ipynb)
-* [Introduction to pandas](notebooks/pandas-intro.ipynb)
 * [Basic matplotlib cookbook](notebooks/matplotlib-cookbook.ipynb)
+* [Beautifying matplotlib plots](notebooks/matplotlib-beautify.ipynb)
+* [Introduction to pandas](notebooks/pandas-intro.ipynb)
 * [EDA for Kaggle NYC Rent data set](notebooks/nyrent.ipynb)
 * [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
 * [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
