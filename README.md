@@ -1,4 +1,4 @@
-# MSDS593 Exploratory data analysis (EDA) at the University of San Francisco
+# MSDS593 Exploratory data analysis (EDA) and Visualization at the University of San Francisco
 
 This course introduces students to the key...
 
