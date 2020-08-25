@@ -151,6 +151,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * [Crash course in Python used in EDA](notebooks/python-crashcourse.ipynb)
 * [Basic matplotlib cookbook](notebooks/matplotlib-cookbook.ipynb)
 * [Beautifying matplotlib plots](notebooks/matplotlib-beautify.ipynb)
+* [Custom matplotlib plots](notebooks/matplotlib-customize.ipynb)
 * [Introduction to pandas](notebooks/pandas-intro.ipynb)
 * [EDA for Kaggle NYC Rent data set](notebooks/nyrent.ipynb)
 * [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
