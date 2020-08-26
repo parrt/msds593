@@ -136,7 +136,7 @@ You will be doing exercises during class in Terence's lectures and you should cr
 
 We will be interleaving lectures from Yannet and Terence, but we can separate the topics into visualization, [pandas](https://pandas.pydata.org/) for data manipulation, and [matplotlib](https://matplotlib.org/) for basic plotting.
 
-### Visualization
+### Visualization (Yannet)
 
 * value of visualization; the importance of context
 * introduction to visualization design; choosing an effective visual
@@ -145,28 +145,10 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * visualizing trees, maps, networks and text
 * storytelling with data
 
-### Viz Implementation and intro to EDA
+### Viz Implementation and EDA (Terence)
 
 * [Coding and implementation overview](notebooks/eda-viz-impl-overview.ipynb)
 * [Crash course in Python used in EDA](notebooks/python-crashcourse.ipynb)
-
-#### Pandas
-
-* [Introduction to pandas](notebooks/pandas-intro.ipynb)
-* [EDA for Kaggle NYC Rent data set](notebooks/nyrent.ipynb)
-* [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
-* [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
-
-Concepts:
-
-* fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
-* selecting, slicing, method chaining, indexes
-* sorting, removing duplicates, shuffle, sample
-* dates, strings
-* pattern matching during selection
-* aggregation, grouping, binning, quantiles
-* map function or dictionary to Series (apply?)
-* merging/joining/stacking
 
 #### Making plots with matplotlib
 
@@ -190,6 +172,24 @@ Concepts:
 * drawing lines, shapes, text, annotations
 * altering axes, labels; titles
 * misc: legends, colorbar, linewidth, line style, colors
+
+#### Pandas
+
+* [Introduction to pandas](notebooks/pandas-intro.ipynb)
+* [EDA for Kaggle NYC Rent data set](notebooks/nyrent.ipynb)
+* [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
+* [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
+
+Concepts:
+
+* fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
+* selecting, slicing, method chaining, indexes
+* sorting, removing duplicates, shuffle, sample
+* dates, strings
+* pattern matching during selection
+* aggregation, grouping, binning, quantiles
+* map function or dictionary to Series (apply?)
+* merging/joining/stacking
 
 ## Administrative details
 
