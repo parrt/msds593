@@ -156,22 +156,15 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * [Beautifying matplotlib plots](notebooks/matplotlib-beautify.ipynb)
 * [Custom matplotlib plots](notebooks/matplotlib-customize.ipynb)
 
-Concepts:
+Topics:
 
-* bar chart, histogram
-* scatter; alpha channel
-* line plot
-* boxplot
-* strip plot
-* violin plot
-* bubble plot
-* heatmap
+* plots: bar chart, histogram, scatter, line, box, strip, violin,  bubble plot
 * images (MNIST)
-* display matrices
+* displaying matrices / heatmaps
 * overlaid plots for comparing variables; arrays of plots; shared axes
 * drawing lines, shapes, text, annotations
 * altering axes, labels; titles
-* misc: legends, colorbar, linewidth, line style, colors
+* misc: legends, colorbar, linewidth, line style, colors, alpha channel
 
 #### Pandas
 
@@ -180,7 +173,7 @@ Concepts:
 * [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
 * [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
 
-Concepts:
+Topics:
 
 * fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
 * selecting, slicing, method chaining, indexes
