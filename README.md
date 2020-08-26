@@ -157,7 +157,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
 * [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
 
-**Concepts**
+Concepts:
 
 * fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
 * selecting, slicing, method chaining, indexes
@@ -174,7 +174,7 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * [Beautifying matplotlib plots](notebooks/matplotlib-beautify.ipynb)
 * [Custom matplotlib plots](notebooks/matplotlib-customize.ipynb)
 
-**Concepts**
+Concepts:
 
 * bar chart, histogram
 * scatter; alpha channel
