@@ -8,7 +8,7 @@ This course introduces students to the key...
 
 **OFFICE HOURS**
 
-* Yannet TBA
+* Yannet Tuesdays 4-5pm on zoom 
 * Terence is generally available on slack or email on-demand
 
 **SPATIAL COORDINATES:**<br>
