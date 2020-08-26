@@ -8,7 +8,7 @@ This course introduces students to the key...
 
 **OFFICE HOURS**
 
-* Yannet Tuesdays 4-5pm on zoom 
+* Yannet TBA
 * Terence is generally available on slack or email on-demand
 
 **SPATIAL COORDINATES:**<br>
@@ -149,17 +149,16 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 
 * [Coding and implementation overview](notebooks/eda-viz-impl-overview.ipynb)
 * [Crash course in Python used in EDA](notebooks/python-crashcourse.ipynb)
-* [Basic matplotlib cookbook](notebooks/matplotlib-cookbook.ipynb)
-* [Beautifying matplotlib plots](notebooks/matplotlib-beautify.ipynb)
-* [Custom matplotlib plots](notebooks/matplotlib-customize.ipynb)
+
+#### Pandas
+
 * [Introduction to pandas](notebooks/pandas-intro.ipynb)
 * [EDA for Kaggle NYC Rent data set](notebooks/nyrent.ipynb)
 * [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
 * [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
 
-#### Pandas
+**Concepts**
 
-* introduction and overview of pandas; examples of the major components, what we can do
 * fundamentals: key data types. df vs series. numpy relationship.  dealing with NaN for missing elements vs empty string. categorical versus numerical.
 * selecting, slicing, method chaining, indexes
 * sorting, removing duplicates, shuffle, sample
@@ -168,9 +167,14 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 * aggregation, grouping, binning, quantiles
 * map function or dictionary to Series (apply?)
 * merging/joining/stacking
-* feather format
 
 #### Making plots with matplotlib
+
+* [Basic matplotlib cookbook](notebooks/matplotlib-cookbook.ipynb)
+* [Beautifying matplotlib plots](notebooks/matplotlib-beautify.ipynb)
+* [Custom matplotlib plots](notebooks/matplotlib-customize.ipynb)
+
+**Concepts**
 
 * bar chart, histogram
 * scatter; alpha channel
