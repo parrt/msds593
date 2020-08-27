@@ -147,14 +147,14 @@ We will be interleaving lectures from Yannet and Terence, but we can separate th
 
 ### Viz Implementation and EDA (Terence)
 
-* [Coding and implementation overview](notebooks/eda-viz-impl-overview.ipynb)
-* [Crash course in Python used in EDA](notebooks/python-crashcourse.ipynb)
+* [Coding and implementation overview](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/eda-viz-impl-overview.ipynb)
+* [Crash course in Python used in EDA](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/python-crashcourse.ipynb)
 
 #### Making plots with matplotlib
 
-* [Basic matplotlib cookbook](notebooks/matplotlib-cookbook.ipynb)
-* [Beautifying matplotlib plots](notebooks/matplotlib-beautify.ipynb)
-* [Custom matplotlib plots](notebooks/matplotlib-customize.ipynb)
+* [Basic matplotlib cookbook](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/matplotlib-cookbook.ipynb)
+* [Beautifying matplotlib plots](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/matplotlib-beautify.ipynb)
+* [Custom matplotlib plots](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/matplotlib-customize.ipynb)
 
 Topics:
 
@@ -168,10 +168,10 @@ Topics:
 
 #### Pandas
 
-* [Introduction to pandas](notebooks/pandas-intro.ipynb)
-* [EDA for Kaggle NYC Rent data set](notebooks/nyrent.ipynb)
-* [Even more NYC rent exploration](notebooks/nyrent2.ipynb)
-* [Bulldozer auction exploration](notebooks/bulldozer.ipynb)
+* [Introduction to pandas](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/pandas-intro.ipynb)
+* [EDA for Kaggle NYC Rent data set](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/nyrent.ipynb)
+* [Even more NYC rent exploration](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/nyrent2.ipynb)
+* [Bulldozer auction exploration](https://colab.research.google.com/github/parrt/msds593/blob/master/notebooks/bulldozer.ipynb)
 
 Topics:
 
