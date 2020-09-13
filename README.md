@@ -15,7 +15,7 @@ This course introduces students to the key...
 
 * All classes are remote but live online, courtesy of COVID-19.
 
-**TEMPORAL COORDINATES.** Wed 25 August to Fri 9 October
+**TEMPORAL COORDINATES.** Wed 25 August to Fri 2 October
 
 Please note: California time is GMT-7 and all lectures will be over zoom and recorded. Recorded lectures will appear on Canvas.
 
@@ -63,20 +63,15 @@ The following items are even more important because all of us will be remote thi
 
 ## Student evaluation
 
-4 quizzes 40%
-professionalism/attendance/labs 20%
-4 (yannet) homeworks 20%
-project 20%
-
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
 |professionalism/attendance/labs| 20% | |
-|4 Homeworks| 20% | |
+|3 Homeworks| 20% | | (previously 4 homeworks)
 |Quiz 1| 10%| 9/03 |
 |Quiz 2| 10%| 9/10 |
 |Quiz 3| 10%| 9/24 |
-|Quiz 4| 10%| 10/08 |
-|[Group Project](group-project.md)| 20%| 10/06|
+|Quiz 4| 10%| 10/01 | (one week from previous)
+|[Group Project](group-project.md)| 20%| 09/29|
 
 Each project has a hard deadline and only those projects working correctly before the deadline get credit.
 
